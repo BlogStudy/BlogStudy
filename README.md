@@ -15,6 +15,7 @@
 |2회|고대은|[SQL JOIN](https://thread-raclette-4cb.notion.site/SQL-JOIN-42e0ae9ecea842cfbef3c0774988397e)|2022. 12. 28|
 |2회|강성범|[카프카란 무엇인가? - 2](https://ksb-dev.tistory.com/260)|2022. 12. 30|
 |3회|고지훈|[클린 아키텍처 설계원칙-SRP](https://stack-experience.tistory.com/4)|2023. 01. 03|
+|3회|고대은|[MySQL 아키텍처 - 1](https://acisliver.tistory.com/entry/DB-MySQL-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1)|2023. 01. 06|
 
 # 👨‍👦‍👦 Member
 
