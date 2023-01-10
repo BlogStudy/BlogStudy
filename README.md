@@ -17,6 +17,7 @@
 |3회|고지훈|[클린 아키텍처 설계원칙-SRP](https://stack-experience.tistory.com/4)|2023. 01. 03|
 |3회|고대은|[MySQL 아키텍처 - 1](https://acisliver.tistory.com/entry/DB-MySQL-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1)|2023. 01. 06|
 |3회|강성범|[카프카 클러스터 docker compose로 구축하기](https://ksb-dev.tistory.com/261) <br> [카프카 프로듀서와 컨슈머 docker shell 에서 테스트하기](https://ksb-dev.tistory.com/262)|2023. 01. 06|
+|4회|고지훈|[3부 설계원칙-OCP](https://stack-experience.tistory.com/5)|2023. 01. 10|
 
 # 👨‍👦‍👦 Member
 
