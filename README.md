@@ -21,6 +21,7 @@
 |4회|고대은|[InnoDB 스토리지 엔진 아키텍처 - 1](https://acisliver.tistory.com/entry/DB-InnoDB-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EC%97%94%EC%A7%84-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98) <br> [MySQL 쿼리 실행 구조](https://acisliver.tistory.com/entry/DB-MySQL-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%BF%BC%EB%A6%AC-%EC%8B%A4%ED%96%89-%EA%B5%AC%EC%A1%B0)|2023. 01. 11|
 |4회|강성범|[카프카 프로듀서 spring boot로 구현하기](https://ksb-dev.tistory.com/264) <br> [카프카 컨슈머 spring boot로 구현하기](https://ksb-dev.tistory.com/265)|2023. 01. 15|
 |5회|고지훈|[3부 설계원칙-LSP](https://stack-experience.tistory.com/6) <br> [3부 설계원칙-ISP](https://stack-experience.tistory.com/7) <br> [3부 설계원칙-DIP](https://stack-experience.tistory.com/8) |2023. 01. 16|
+|5회|고대은|[InnoDB 스토리지 엔진 아키텍처 - 2](https://acisliver.tistory.com/entry/DB-InnoDB-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-2)|2023. 02. 01|
 
 
 # 👨‍👦‍👦 Member
