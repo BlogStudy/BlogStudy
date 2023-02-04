@@ -22,6 +22,7 @@
 |4회|강성범|[카프카 프로듀서 spring boot로 구현하기](https://ksb-dev.tistory.com/264) <br> [카프카 컨슈머 spring boot로 구현하기](https://ksb-dev.tistory.com/265)|2023. 01. 15|
 |5회|고지훈|[3부 설계원칙-LSP](https://stack-experience.tistory.com/6) <br> [3부 설계원칙-ISP](https://stack-experience.tistory.com/7) <br> [3부 설계원칙-DIP](https://stack-experience.tistory.com/8) |2023. 01. 16|
 |5회|고대은|[InnoDB 스토리지 엔진 아키텍처 - 2](https://acisliver.tistory.com/entry/DB-InnoDB-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-2)|2023. 02. 01|
+|5회|강성범|[컨테이너 기술 보급과 쿠버네티스](https://ksb-dev.tistory.com/268)|2023. 02. 03|
 
 
 # 👨‍👦‍👦 Member
