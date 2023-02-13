@@ -23,8 +23,7 @@
 |5회|고지훈|[3부 설계원칙-LSP](https://stack-experience.tistory.com/6) <br> [3부 설계원칙-ISP](https://stack-experience.tistory.com/7) <br> [3부 설계원칙-DIP](https://stack-experience.tistory.com/8) |2023. 01. 16|
 |5회|고대은|[InnoDB 스토리지 엔진 아키텍처 - 2](https://acisliver.tistory.com/entry/DB-InnoDB-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-2)|2023. 02. 01|
 |5회|강성범|[컨테이너 기술 보급과 쿠버네티스](https://ksb-dev.tistory.com/268)|2023. 02. 03|
-|6회|고지훈|[4부 컴포넌트 원칙 - 컴포넌트](https://stack-experience.tistory.com/9)<br>
-[4부 컴포넌트 원칙 - 컴포넌트 응집도](https://stack-experience.tistory.com/10)|2023. 02. 6|
+|6회|고지훈|[4부 컴포넌트 원칙 - 컴포넌트](https://stack-experience.tistory.com/9)<br>[4부 컴포넌트 원칙 - 컴포넌트 응집도](https://stack-experience.tistory.com/10)|2023. 02. 6|
 |6회|강성범|[쿠버네티스 환경 구축과 예제 애플리케이션 배포 - 1](https://ksb-dev.tistory.com/272)|2023. 02. 10|
 |6회|고대은|[InnoDB 스토리지 엔진 아키텍처 - 3](https://acisliver.tistory.com/entry/DB-InnoDB-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EC%97%94%EC%A7%84-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%96%B8%EB%91%90-%EB%A1%9C%EA%B7%B8)|2023 .02. 10|
 |7회|고지훈|[4부 컴포넌트 원칙 - 컴포넌트 결합도](https://stack-experience.tistory.com/12)|2023. 02. 6|
