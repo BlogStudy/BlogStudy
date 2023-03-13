@@ -29,10 +29,12 @@
 |7회|고지훈|[4부 컴포넌트 원칙 - 컴포넌트 결합도](https://stack-experience.tistory.com/12)|2023. 02. 13|
 |7회|고대은|[InnoDB 스토리지 엔진 아키텍처 - 3](https://acisliver.tistory.com/entry/DB-InnoDB-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EC%97%94%EC%A7%84-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%96%B8%EB%91%90-%EB%A1%9C%EA%B7%B8)<br>[InnoDB 스토리지 엔진 아키텍처 - 2](https://acisliver.tistory.com/entry/DB-InnoDB-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-2)|2023 .02. 13|
 |7회|강성범|[쿠버네티스 환경 구축과 예제 애플리케이션 배포 - 2](https://ksb-dev.tistory.com/274)|2023. 02. 14|
+|8회|고지훈|[5장 아키텍처 - 아키텍처란?](https://stack-experience.tistory.com/13)|2023. 02. 28|
 |8회|고대은|[InnoDB 스토리지 엔진 아키텍처 - 4](https://acisliver.tistory.com/entry/DB-InnoDB-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EC%97%94%EC%A7%84-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-4)|2023 .03. 01|
 |8회|강성범|[MYSQL 문자열 함수 정리](https://ksb-dev.tistory.com/277)|2023. 03. 03|
 |9회|고대은|[MYSQL 트랜잭션과 잠금](https://acisliver.tistory.com/entry/MySQL-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98)|2023. 03. 08|
 |9회|강성범|[쿠버네티스 환경 구축과 예제 애플리케이션 배포 - 3](https://ksb-dev.tistory.com/278)|2023. 03. 10|
+|9회|고지훈|[5장 아키텍처 - 독립성](https://stack-experience.tistory.com/14)|2023. 03. 10|
 
 
 # 👨‍👦‍👦 Member
