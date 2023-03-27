@@ -35,6 +35,7 @@
 |9회|고대은|[MYSQL 트랜잭션](https://acisliver.tistory.com/entry/MySQL-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98)|2023. 03. 08|
 |9회|강성범|[쿠버네티스 환경 구축과 예제 애플리케이션 배포 - 3](https://ksb-dev.tistory.com/278)|2023. 03. 10|
 |9회|고지훈|[5장 아키텍처 - 독립성](https://stack-experience.tistory.com/14)|2023. 03. 10|
+|10회|고지훈|[5장 아키텍처 - 경계 : 선 긋기](https://stack-experience.tistory.com/15)|2023. 03. 15|
 |10회|고대은|[MySQL 잠금](https://acisliver.tistory.com/entry/MySQL-%EC%9E%A0%EA%B8%88)|2023. 03. 10|
 |10회|강성범|[쿠버네티스에서 애플리케이션을 동작시키는 구조 - 1](https://ksb-dev.tistory.com/286) <br/> [쿠버네티스에서 애플리케이션을 동작시키는 구조 - 2](https://ksb-dev.tistory.com/287)|2023. 03. 10|
 |11회|고지훈|[5장 아키텍처 - 경계해부학](https://stack-experience.tistory.com/16)|2023. 03. 24|
