@@ -37,8 +37,10 @@
 |9회|고지훈|[5장 아키텍처 - 독립성](https://stack-experience.tistory.com/14)|2023. 03. 10|
 |10회|고대은|[MySQL 잠금](https://acisliver.tistory.com/entry/MySQL-%EC%9E%A0%EA%B8%88)|2023. 03. 10|
 |10회|강성범|[쿠버네티스에서 애플리케이션을 동작시키는 구조 - 1](https://ksb-dev.tistory.com/286) <br/> [쿠버네티스에서 애플리케이션을 동작시키는 구조 - 2](https://ksb-dev.tistory.com/287)|2023. 03. 10|
+|11회|고지훈|[5장 아키텍처 - 경계해부학](https://stack-experience.tistory.com/16)|2023. 03. 24|
 |11회|고대은|[MySQL 데이터 압축](https://acisliver.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%95%95%EC%B6%95)|2023. 03. 24|
-|10회|강성범|[쿠버네티스에서 애플리케이션을 동작시키는 구조 - 2(내용 추가)](https://ksb-dev.tistory.com/287)|2023. 03. 10|
+|11회|강성범|[쿠버네티스에서 애플리케이션을 동작시키는 구조 - 2(내용 추가)](https://ksb-dev.tistory.com/287)|2023. 03. 24|
+|12회|고지훈|[5장 아키텍처 - 정책과 수준](https://stack-experience.tistory.com/17)|2023. 03. 27|
 
 
 
