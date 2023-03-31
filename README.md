@@ -42,6 +42,7 @@
 |11회|고대은|[MySQL 데이터 압축](https://acisliver.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%95%95%EC%B6%95)|2023. 03. 24|
 |11회|강성범|[쿠버네티스에서 애플리케이션을 동작시키는 구조 - 2(내용 추가)](https://ksb-dev.tistory.com/287)|2023. 03. 24|
 |12회|고지훈|[5장 아키텍처 - 정책과 수준](https://stack-experience.tistory.com/17)|2023. 03. 27|
+|12회|강성범|[3. 쿠버네티스에서 애플리케이션을 동작시키는 구조 - 3](https://ksb-dev.tistory.com/299) <br/> [3. 쿠버네티스에서 애플리케이션을 동작시키는 구조 - 4](https://ksb-dev.tistory.com/300)|2023. 03. 31|
 
 
 
