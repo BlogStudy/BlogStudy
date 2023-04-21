@@ -45,6 +45,7 @@
 |12회|강성범|[3. 쿠버네티스에서 애플리케이션을 동작시키는 구조 - 3](https://ksb-dev.tistory.com/299) <br/> [3. 쿠버네티스에서 애플리케이션을 동작시키는 구조 - 4](https://ksb-dev.tistory.com/300)|2023. 03. 31|
 |12회|고대은|[MySQL 데이터 암호화](https://acisliver.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%95%94%ED%98%B8%ED%99%94)|2023. 03. 31|
 |13회|강성범|[3. 쿠버네티스에서 애플리케이션을 동작시키는 구조 - 5](https://ksb-dev.tistory.com/307) <br/> [3. 쿠버네티스에서 애플리케이션을 동작시키는 구조 - 6](https://ksb-dev.tistory.com/308)|2023. 04. 21|
+|13회|고대은|[MySQL 인덱스 - 1](https://acisliver.tistory.com/entry/MySQL-%EC%9D%B8%EB%8D%B1%EC%8A%A4-1)|2023. 04. 21|
 
 
 
