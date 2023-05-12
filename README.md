@@ -47,6 +47,7 @@
 |13회|강성범|[3. 쿠버네티스에서 애플리케이션을 동작시키는 구조 - 5](https://ksb-dev.tistory.com/307) <br/> [3. 쿠버네티스에서 애플리케이션을 동작시키는 구조 - 6](https://ksb-dev.tistory.com/308)|2023. 04. 21|
 |13회|고대은|[MySQL 인덱스 - 1](https://acisliver.tistory.com/entry/MySQL-%EC%9D%B8%EB%8D%B1%EC%8A%A4-1)|2023. 04. 21|
 |13회|고지훈|[5장 아키텍처 -업무규칙](https://stack-experience.tistory.com/18)|2023. 04. 21|
+|14회|강성범|[엘라스틱서치 8.X 도커로 무작성 실행해보기](https://ksb-dev.tistory.com/309) <br/> [엘라스틱서치 데이터 삽입, 조회, 수정, 삭제, _bulk API](https://ksb-dev.tistory.com/311)|2023. 05. 05|
 
 
 
